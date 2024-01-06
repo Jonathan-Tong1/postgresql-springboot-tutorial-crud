@@ -32,7 +32,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spring-boot-postgresql-crud-api.git
+   git clone https://github.com/yourusername/postgresql-springboot-tutorial-crud
    ```
 
 2. Configure the PostgreSQL database by updating the `application.properties` file in the `src/main/resources` directory with your database connection details.
