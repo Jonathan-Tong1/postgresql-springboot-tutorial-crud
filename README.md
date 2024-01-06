@@ -1,4 +1,3 @@
-Certainly! Below is a template for a GitHub README.md file for your Spring Boot + PostgreSQL + Rest CRUD API project:
 
 ```markdown
 # Spring Boot + PostgreSQL + Rest CRUD API for Tutorial Application
